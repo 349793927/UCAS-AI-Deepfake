@@ -1,0 +1,3 @@
+weight/progan_train.pth model testing on...
+testset,accuracy,avg precision
+test,0.5845113706207744,0.43470107688689136
